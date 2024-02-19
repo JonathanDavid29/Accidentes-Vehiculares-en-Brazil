@@ -15,4 +15,4 @@ Los puntos escenciales que identificaron los miembros del area estrategica son:
 Atentamente,
 Direccion.
 
-<img src="https://imgur.com/a/ZwRUZZ7.png" width = "800" >
+<img src="https://imgur.com/dqIOy2h.png" width = "800" >
